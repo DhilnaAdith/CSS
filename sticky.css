@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Grape+Nuts&display=swap');
+
+
+div{
+    background-color: blueviolet;
+    position: sticky;
+    top: 10px;
+    font-family: 'Grape Nuts', cursive; 
+    font-size: 50px;
+}
+#p1{
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+
+}
+body{
+    background: url(./images/piza.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

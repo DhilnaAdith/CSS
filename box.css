@@ -1,0 +1,10 @@
+div{
+    background-color: rosybrown;
+    width: 600px;
+    height: 500px;
+    margin:100px;
+    margin-left: 800px;
+    border: 5px solid black;
+}p{
+    padding:50px;
+}

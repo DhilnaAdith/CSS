@@ -1,0 +1,9 @@
+div{
+    background-color: turquoise;
+    width: 500px;
+    height: 600px;
+}
+body{
+    background: url(./images/bur.jpg) ;
+    background-size: cover;
+}
